@@ -5,9 +5,11 @@ https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexu
 
 dataset with zipf values: https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus/subtlexus1.zip
 
-embedding model: 
+embedding model(cc.en.300.vec.gz): 
 https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.vec.gz
 https://fasttext.cc/docs/en/crawl-vectors.html
+
+Please download the dataset and embedding model and put them in the `data` folder.
 
 # Experiments
 - Setup1 
