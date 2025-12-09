@@ -9,7 +9,8 @@ embedding model(cc.en.300.vec.gz):
 https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.vec.gz
 https://fasttext.cc/docs/en/crawl-vectors.html
 
-Please download the dataset and embedding model and put them in the `data` folder.
+Please download the dataset and embedding model and put them in the `data` folder. When first time run the code, it may 
+take a while to generate data_cache/fasttext_model.kv.vectors.npy
 
 # Experiments
 - Setup1 
