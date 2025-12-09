@@ -1,0 +1,4 @@
+data/cc.en.300.bin
+data/cc.en.300.vec
+data_cache/fasttext_model.kv.vectors.npy
+
